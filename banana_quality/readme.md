@@ -7,6 +7,7 @@ The reference set is used to establish a baselines for performance. And the anal
 
 # List of columns is the dataset
 
+* Identifier - unique id
 * Timestamp - artifially added, full description can be found in the `banana_quality_preparation.ipynb` notebook
 * Size - size of fruit
 * Weight - weight of fruit
